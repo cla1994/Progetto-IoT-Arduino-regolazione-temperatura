@@ -1,8 +1,8 @@
 # Progetto-IoT-Arduino-regolazione-temperatura
 Progetto universitario di domotica per Internet of Things, per prendere confidenza con Arduino / microcontrollori.
 
-La scheda Arduino è stata connessa ad un sensore di temperatura tramite una breadboard e cavetti jumper.
-Il codice descrive una connessione Wi-Fi remota a corto raggio (protocollo CoAP) tra il termostato e una scheda Arduino interfacciata ad un sensore di temperatura.
+Ho usato 2 schede Arduino: la 1° scheda Arduino è stata connessa ad un sensore di temperatura tramite una breadboard e cavetti jumper.
+Il codice descrive una connessione client-server remota a corto raggio (protocollo CoAP) tra il termostato (la 2° scheda) e la scheda interfacciata ad un sensore di temperatura.
 Questo permette il controllo e la regolazione automatizzata a distanza della temperatura, a seconda della soglia scelta.
 
 Si riporta il codice scritto su Arduino IDE in C / C++.
